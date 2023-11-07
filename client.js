@@ -6136,7 +6136,7 @@ var Border = function () {
       var i, a, _ = document.getElementById("servers").value;
       "auto" == _ ? (i = "https://turquoisefatalangle.devastio.repl.co/find", a = {
         game_modes: [e]
-      }) : (i = "https://turquoisefatalangle.devastio.repl.co/join", a = {
+      }) : (i = "https://matchmaker.cdevastio.repl.co/join", a = {
         lobby_id: _
       });
       let o = {
