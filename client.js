@@ -2036,19 +2036,19 @@ var Client = function () {
     },
     skins: [{
       head: {
-        src: "https://devast.io/img/day-skin0.png",
+        src: "img/skin.png",
         img: {
           isLoaded: 0
         }
       },
       leftArm: {
-        src: "https://devast.io/img/day-left-arm0.png",
+        src: "img/left.png",
         img: {
           isLoaded: 0
         }
       },
       rightArm: {
-        src: "https://devast.io/img/day-right-arm0.png",
+        src: "/img/right.png",
         img: {
           isLoaded: 0
         }
