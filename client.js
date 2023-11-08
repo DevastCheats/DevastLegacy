@@ -2048,7 +2048,7 @@ var Client = function () {
         }
       },
       rightArm: {
-        src: "/img/right.png",
+        src: "img/right.png",
         img: {
           isLoaded: 0
         }
@@ -6418,7 +6418,7 @@ var Border = function () {
             __ENTITIE_RESOURCES_STOP__, 100, 800, 10, RESID.LEAFTREE, 0), o(__ENTITIE_RESOURCES_STOP__, 400, 800, 10,
             RESID.LEAFTREE, 1), o(__ENTITIE_RESOURCES_STOP__, 700, 800, 10, RESID.LEAFTREE, 2), o(
             __ENTITIE_RESOURCES_DOWN__, 900, 700, 50, RESID.WOOD, 4), d = 1 === isTouchScreen ? GUI.createBackground(
-            650, 312, "https://devast.io/img/logo-homepage-mobile2.png") : GUI.createBackground(650, 312, "https://devast.io/img/logo-homepage4.png"), n =
+            650, 312, "https://devast.io/img/logo-homepage-mobile2.png") : GUI.createBackground(650, 312, "img/logo.png"), n =
           window.document.getElementById("nickname"), r = n.style, l = {
             x: 0,
             y: 0
